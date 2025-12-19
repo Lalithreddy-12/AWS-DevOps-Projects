@@ -1,0 +1,18 @@
+🌱 Learning DevOps by Building, Breaking & Fixing
+
+I just completed a hands-on mini project where I built an AWS Resource Tracking system using Shell Scripting and AWS CLI.
+
+What started as a simple script turned into deep learning around:
+
+• IAM permissions & access errors
+• AWS regions (yes, a small typo can break everything 😅)
+• Parsing AWS JSON output using jq
+• Automating reports with cron jobs
+
+Writing cleaner, production-style shell scripts and finally seeing my EC2 instance details correctly appear after debugging everything was a huge confidence boost.
+
+Planning to extend this with AWS Cost Explorer and alerting next 🚀
+
+» Open to feedback and suggestions from the DevOps community.
+
+#DevOps #AWS #CloudComputing #Linux #ShellScripting #DevOpsJourney #LearningByDoing
